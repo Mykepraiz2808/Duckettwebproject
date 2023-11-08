@@ -1,0 +1,35 @@
+.column1of3 {
+    width: 250px;
+    float:left ;
+    margin: 0px 20px 0px 100px;
+     text-align:inherit ;
+     padding: 0px 5px 0px 25px;}
+
+.column2of3 {
+    width: 250px;
+    float:left;
+    margin: 0px 20px 0px 100px;
+    padding: 0px 5px 0px 25px;}
+.column3of3 {
+    width:250px ;
+    float: left;
+    margin: 0px 20px 0px 100px;;
+    padding: 0px 5px 0px 25px;
+}
+.col1{
+    display: inline;
+    float:left ;
+    margin: 15px 20px 10px 300px;
+     
+     
+    width: 300px;}
+
+.col2{
+    display: inline;
+    float: left;
+    margin: 15px 200px 20px 20px;
+     
+     
+    width: 350px;}
+
+px
